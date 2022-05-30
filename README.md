@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneetsinha
 - 👀 I’m interested in helping business to translate their problems in language of data.
-- 🌱 I’m currently learning data structures
+- 🌱 I’m allways keep learning data structure and new system designs implemented.
 - 💞️ I’m looking to collaborate on Kaggle comptetions
 - 📫 How to reach me iimcpuneetsinha@gmail.com/ +918888835462 
 
